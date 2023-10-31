@@ -1,0 +1,7 @@
+{
+  "sqlite_gdpeco": {
+    "dbdir": ".",
+    "database": "gdpeco",
+    "scheme": "sqlite"
+  }
+}
